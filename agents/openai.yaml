@@ -1,0 +1,6 @@
+interface:
+  display_name: "Image 2.5 生图"
+  short_description: "使用已验证的兼容接口生成或修改图片，读取本地配置并安全处理密钥"
+  default_prompt: "使用 $image25-api，根据我的提示词生成图片并展示预览。"
+policy:
+  allow_implicit_invocation: true
